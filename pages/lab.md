@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Our lab"
+title: "My group"
 nav_order: 1
 ---
 
