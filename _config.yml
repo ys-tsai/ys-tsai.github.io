@@ -34,7 +34,7 @@ plugins:
 
 header_pages:
   - index.markdown
-  - pages/lab.md
+  - pages/group.md
   - pages/publications.md
   - pages/robots.md
   - pages/alumni.md
