@@ -3,7 +3,7 @@ layout: page
 title: "About"
 ---
 
-<p><img class="align-right round" src="/images/me.jpg" alt="Yi-Shan Tsai headshot" width="200" height="200">
+<p><img class="align-right round" src="/images/me.JPG" alt="Yi-Shan Tsai headshot" width="200" height="200">
 I am a <a href="https://research.monash.edu/en/persons/yi-shan-tsai/">Senior Lecturer at the Department of Data Science and AI in the Faculty of Information Technology at Monash University</a> in Melbourne, Australia. I am a core member of <a href="https://www.monash.edu/it/dsai/learning-analytics"> the Centre for Learning Analytics at Monash (CoLAM)</a>. 
 
 ## What I do
