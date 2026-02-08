@@ -40,3 +40,8 @@ Our lab is currently supported by
 * ARC Linkage Project ($1.2 M) Intelligent Robotics for Pharmaceutical Formulation Development.
 
 Students are generally supported by central Australian government and university scholarships. We also also collaborate with industry partners like CSL-Behring, Proa and Omnia.  
+
+
+
+## Join us
+<p>PhD students interested in working with me on probabilistic machine learning and inference for robotics (imitation, learning from demonstration, representation learning for robotics, learning-based robot control) should  <a href="https://www.monash.edu/engineering/future-students/graduate-research/how-to-apply"> <strong> follow this process to apply </strong></a>. My supervision load is typically quite full, but always open to discussing projects aligned with my research interests. </p>
